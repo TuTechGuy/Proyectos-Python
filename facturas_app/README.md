@@ -49,7 +49,7 @@ Este proyecto no es solo sobre **extraer datos de facturas**, ¡es sobre aprende
 ### 🎬 **¿Te interesa aprender más?**  
 ¡Este es el tipo de contenido que encuentras en mi canal de YouTube, **TuTechGuy**! Si te apasiona **Python** y el desarrollo de proyectos **prácticos**, no dudes en visitar y suscribirte a **TuTechGuy** para más tutoriales como este.
 
-[**¡Mira más videos en TuTechGuy!**](https://www.youtube.com/TuTechGuy)
+[**¡Mira más videos en TuTechGuy!**]((https://www.youtube.com/@TuTechGuy))
 
 ---
 
